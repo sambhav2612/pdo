@@ -1,0 +1,28 @@
+{
+  "name": "php-crud-app",
+  "version": "0.0.2",
+  "description": "a simple php crud application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambhav2612/pdo.git"
+  },
+  "keywords": [
+    "pdo",
+    "php",
+    "database",
+    "crud",
+    "app",
+    "web",
+    "app"
+  ],
+  "author": "“Sambhav <“sambhavjain2612@gmail.com”> (“sambhav2612.github.io”)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sambhav2612/pdo/issues"
+  },
+  "homepage": "https://github.com/sambhav2612/pdo#readme"
+}
