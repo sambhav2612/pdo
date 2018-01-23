@@ -8,4 +8,4 @@ $ cd pdo
 $ php -S localhost:8000
 ```
 
-Your site is live on localhost:8000. Just put this web address in your browser and you're good to go.
+Your site is live on `http://localhost:8000`. Just put this web address in your browser and you're good to go.
